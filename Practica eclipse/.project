@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Practica eclipse</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>etc/log4j2.xml</name>
+			<type>1</type>
+			<location>C:/Users/diqui_000/Desktop/log4j/log4j2.xml</location>
+		</link>
+		<link>
+			<name>lib/._log4j-api-2.5.jar</name>
+			<type>1</type>
+			<location>C:/Users/diqui_000/Desktop/log4j/lib/._log4j-api-2.5.jar</location>
+		</link>
+		<link>
+			<name>lib/log4j-api-2.5.jar</name>
+			<type>1</type>
+			<location>C:/Users/diqui_000/Desktop/log4j/lib/log4j-api-2.5.jar</location>
+		</link>
+		<link>
+			<name>lib/log4j-core-2.5.jar</name>
+			<type>1</type>
+			<location>C:/Users/diqui_000/Desktop/log4j/lib/log4j-core-2.5.jar</location>
+		</link>
+		<link>
+			<name>src/foo</name>
+			<type>2</type>
+			<location>C:/Users/diqui_000/Desktop/log4j/src/com/foo</location>
+		</link>
+	</linkedResources>
+</projectDescription>
